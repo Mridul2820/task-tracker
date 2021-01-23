@@ -4,4 +4,4 @@ This project is from [Traversy Media](https://www.youtube.com/watch?v=w7ejDZ8SWv
 
 ## Available Deploy on Netlify
 
-The Project can be viewd at Netlify
+The Project can be viewd at [Netlify](https://task-tracker-react-app.netlify.app/)
